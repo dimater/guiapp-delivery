@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "823971033787",
+    "project_id": "guiappdelivery-8c86b",
+    "storage_bucket": "guiappdelivery-8c86b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823971033787:android:f82bb3fbdfb143d2f4af9e",
+        "android_client_info": {
+          "package_name": "com.guiapp.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823971033787-eii4sij40bsg5dblsrpj555egs9m862t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJPAGbE2wC8d9aOVM72WsqO7iB43S2taM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823971033787-eii4sij40bsg5dblsrpj555egs9m862t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823971033787:android:1e53e5cba524caf4f4af9e",
+        "android_client_info": {
+          "package_name": "com.guiappdelivery.drivers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823971033787-eii4sij40bsg5dblsrpj555egs9m862t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJPAGbE2wC8d9aOVM72WsqO7iB43S2taM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823971033787-eii4sij40bsg5dblsrpj555egs9m862t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
